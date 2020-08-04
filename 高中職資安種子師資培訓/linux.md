@@ -1,7 +1,10 @@
 # linux xxd
 ```
  xxd -h
-Usage:
+ ...
+ 
+## Usage:
+...
        xxd [options] [infile [outfile]]
     or
        xxd -r [-s [-]offset] [-c cols] [-ps] [infile [outfile]]
