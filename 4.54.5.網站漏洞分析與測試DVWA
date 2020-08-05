@@ -5,11 +5,14 @@ SQLI
 XSS
 LFI
 ...
-
+##
+...
 網站log 分析
 
 DVWA SQLi 
-
+...
+###
+...
 https://www.itread01.com/content/1549974072.html
 
 
@@ -37,3 +40,5 @@ if( isset( $_REQUEST[ 'Submit' ] ) ) {
 }
 
 ?> 
+...
+
